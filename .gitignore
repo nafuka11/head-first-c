@@ -5,3 +5,7 @@ map.html
 output.json
 spooky.csv
 chapter03/categorize/*.csv
+
+# chapter09
+reports.log
+rssgossip.py
