@@ -9,3 +9,6 @@ chapter03/categorize/*.csv
 # chapter09
 reports.log
 rssgossip.py
+
+# chapter10
+stories.txt

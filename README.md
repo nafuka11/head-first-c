@@ -83,3 +83,12 @@
 |getenv|食堂情報の表示|exec()での環境変数の渡し方|
 |show_network_config|ネットワーク設定の表示|コマンド失敗時のエラー表示|
 |newshound|RSSフィードのテキスト検索|fork()によるプロセスの複製|
+
+### chapter10
+
+|ディレクトリ名|内容|学んだこと|
+|--|--|--|
+|newshound2|RSS Gossipの出力をstories.txtに保存するプログラム|標準出力のリダイレクト、waitpid()|
+|news_opener|RSS Gossipで検索した記事をWebブラウザで開く|pipe()を使ったプロセス間通信|
+|greetings|Ctrl+Cを押した時に文字列を表示するプログラム|シグナルハンドラ|
+|math_master|数学スキルテスト|アラームの設定|
